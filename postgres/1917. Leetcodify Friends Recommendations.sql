@@ -1,3 +1,6 @@
+-- from https://leetcode.com/problems/leetcodify-friends-recommendations/description/
+--tags: hard, 23% acceptance rate
+
 -- Write your PostgreSQL query statement below
 with daily_user_pair_listens as(
     select 
