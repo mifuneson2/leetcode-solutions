@@ -1,6 +1,6 @@
 -- 1225. Report Contiguous Dates
 -- https://leetcode.com/problems/report-contiguous-dates/description/
--- tags: database, hard
+-- tags: database, hard, no_posted_solution
 
 -- Write your PostgreSQL query statement below
 

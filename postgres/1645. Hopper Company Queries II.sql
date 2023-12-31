@@ -1,6 +1,6 @@
 -- 1645. Hopper Company Queries II
 -- https://leetcode.com/problems/hopper-company-queries-ii/
--- tags: database, hard
+-- tags: database, hard, no_posted_solution
 
 -- Write your PostgreSQL query statement below
 with date_range(month) as (

@@ -1,5 +1,5 @@
 -- https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/
--- tags: database, hard
+-- tags: database, hard, no_posted_solution, generate_series, lateral, cross_join
 
 -- Write your PostgreSQL query statement below
 with task_subtask as (
