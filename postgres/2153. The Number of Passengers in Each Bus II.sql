@@ -1,6 +1,6 @@
 -- 2153. The Number of Passengers in Each Bus II
 -- from: https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii/
--- tags: database, hard, recursive, no_posted_solution 
+-- tags: database, hard, recursive, no_posted_solution
 
 -- Write your PostgreSQL query statement below
 

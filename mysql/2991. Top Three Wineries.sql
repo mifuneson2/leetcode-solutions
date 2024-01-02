@@ -1,6 +1,6 @@
 # 2991. Top Three Wineries 
 # https://leetcode.com/problems/top-three-wineries/
-# tags: database, hard, no_posted_solution, new_problem
+# tags: database, hard, no_posted_solution, new_problem, concat, window
 
 # Write your MySQL query statement below
 

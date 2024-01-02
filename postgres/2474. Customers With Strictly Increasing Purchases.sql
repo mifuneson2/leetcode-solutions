@@ -1,6 +1,6 @@
 -- 2474. Customers With Strictly Increasing Purchases
 -- https://leetcode.com/problems/customers-with-strictly-increasing-purchases/
--- tags: database, hard, no_posted_solution
+-- tags: database, hard, no_posted_solution, lag
 
 -- Write your PostgreSQL query statement below
 

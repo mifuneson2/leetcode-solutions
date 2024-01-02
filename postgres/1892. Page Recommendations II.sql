@@ -1,6 +1,6 @@
 -- 1892. Page Recommendations II
 -- https://leetcode.com/problems/page-recommendations-ii/
--- tags: database, hard, no_posted_solution
+-- tags: database, hard, no_posted_solution, dedupe
 
 -- Write your PostgreSQL query statement below
 
