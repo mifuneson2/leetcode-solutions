@@ -1,6 +1,6 @@
 -- 2346. Compute the Rank as a Percentage
 -- https://leetcode.com/problems/compute-the-rank-as-a-percentage/
--- tags: database, medium, no_published_solution
+-- tags: database, medium, no_posted_solution
 
 -- Write your PostgreSQL query statement below
 

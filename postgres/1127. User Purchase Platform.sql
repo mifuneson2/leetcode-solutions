@@ -1,5 +1,6 @@
 -- 1127. User Purchase Platform
 -- https://leetcode.com/problems/user-purchase-platform/
+-- tags: database, hard, no_posted_solution
 
 -- Write your PostgreSQL query statement below
 with date_range as (

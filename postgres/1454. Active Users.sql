@@ -19,7 +19,7 @@ with logins_deduped as (
 ,user_login_groups as (
     select 
         *
-        ,login_date - date'2000-01-01' - rn as lgroup
+        ,login_date - date'2000-01-01' - rn as lgroup --create unique group ids
     from user_login_days
 )
 

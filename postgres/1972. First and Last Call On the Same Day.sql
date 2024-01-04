@@ -1,6 +1,6 @@
 -- 1972. First and Last Call On the Same Day
 -- https://leetcode.com/problems/first-and-last-call-on-the-same-day/
--- tags: database, hard, window, 
+-- tags: database, hard, window 
 
 -- Write your PostgreSQL query statement below
 
